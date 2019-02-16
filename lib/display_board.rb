@@ -8,4 +8,4 @@ def display_board
   puts cell + pipe + cell + pipe + cell
   puts line
   puts cell + pipe + cell + pipe + cell
-  
+end
